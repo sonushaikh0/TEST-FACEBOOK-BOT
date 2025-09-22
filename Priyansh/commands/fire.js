@@ -2,7 +2,7 @@ module.exports.config = {
     name: "Fire",
     version: "1.0.0",
     hasPermssion: 2,
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credits: "SAHIBA LOVER",
     description: "Fire broke the boxchat",
     commandCategory: "group",
     usages: "bold Fire",
@@ -20,8 +20,8 @@ module.exports.run = async function({ api, args, Users, event}) {
     var arraytag = [];
         arraytag.push({id: mention});
     var a = function (a) { api.sendMessage(a, event.threadID); }
-a("T3R9 B99P BOT 3NT3R S9L3 APN3 B99P S3 JUB99N L9D9Y3G9🤞🏻👅👅");
-setTimeout(() => {a({body: " BOT KO G9LI D3N3 W9LO TUMH9RII B9HN KII (+)🙊💋" })}, 3000);
+a("T3R9 B99P R9J9 3NT3R S9L3 APN3 B99P S3 JUB99N L9D9Y3G9🤞🏻👅👅");
+setTimeout(() => {a({body: " R9J9 KO G9LI D3N3 W9LO TUMH9RII B9HN KII (+)🙊💋" })}, 3000);
 setTimeout(() => {a({body: " T3RII M99 BHOSD99 F99D KR F3KH DUNG9 S9L33 H9WB99Z T9TT3💋🤣"})}, 5000);
 setTimeout(() => {a({body: " T3RII M99 K3 BHOSD33 M3 MOOT DUNG99 M9RCHOXDD😜💔" })}, 7000);
 setTimeout(() => {a({body: " T3RII M9 KI (+) R9ND K3 B9XH33🤚🏻💋" })}, 9000);
